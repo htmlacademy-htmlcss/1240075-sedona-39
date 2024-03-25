@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Roman Blinov](https://up.htmlacademy.ru/htmlcss/39/user/1240075).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
